@@ -1,0 +1,5 @@
+fname = input("Write first name: ")
+
+sname = input("Write second name: ")
+
+print("The names inreverse are: " + str(sname) + " " + str(fname))
